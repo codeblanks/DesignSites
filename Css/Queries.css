@@ -290,11 +290,40 @@
       top: 90%;
     }
 
+    .home-container {
+      max-width: none;
+    }
+
+    .home-text-button-container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .hero-img {
+      width: 100vw;
+    }
+
     /**************************/
     /* GOAL */
     /**************************/
     .goal-text {
       width: 45%;
+    }
+
+    /**************************/
+    /* FIGMA */
+    /**************************/
+    .figma-container {
+      max-width: none;
+    }
+
+    .figma-text-button-container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .power-img {
+      width: 100vw;
     }
 
     /**************************/
